@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nepalibrosmp.aternos.me",
+    "ip": "nepalibrosmp.aternos.me:24495",
     "port": 24495,
     "version": "1.21.1"
   },
