@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "nepalibrosmp.aternos.me",
     "port": 24495,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
